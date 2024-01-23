@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Gresse Mickael
-    tagline: Developpeur Python - Alternance
+    tagline: Developpeur Python Junior - Alternance
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -31,13 +31,13 @@ sidebar:
     pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Langues
       info:
         - idiom: Français
           level: Natif
 
         - idiom: Anglais
-          level: Professional
+          level: Professionel
 
     interests:
       title: intérêts
@@ -60,12 +60,13 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+
 education:
     title: Éducation
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Alternance Python
+        university: OpenClassroom
+        time: 2024
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -74,58 +75,57 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Formation Java Fullstack
+        university: EPSI Montpellier
+        time: 2019
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Formation de deux mois
+            - Bullet point
+            - Bullet point
+      - degree: Développeur informatique
+        university: Epitech Montpellier
+        time: 2010 - 2013
+        details: |
+          École d'ingénieur avec pour base principale le C/C++
             - Bullet point
             - Bullet point
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Agent Helpdesk
+        time: 2021-2023
+        company: Computacenter - Lattes
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Agent en charge du support informatique pour les employés de la société Michelin.
+            - Prise en main à distance
+            - Maintient de la base de connaissance
+            -
+      - role: Développeur Web
+        time: 2014
+        company: SIRAE - Montpellier
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Création d'un réseau social orienté gamers.
+      - role: Mentions spéciales
+        time: 2015-2020
+        company: 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Intérimaire 2018-2020
+          - Kiabi - Montpellier : Accueil Caisse / Gestion de Rayon
+          - Clé Sud - Miramas : Préparateurs de Commande
+          - Missions ponctuelles : Inventaires, déchargements semi, montages de meubles, déménagements, etc...
+          Commis de cuisine / Plongeur
+          Hotel de l'Europe - Marvejols
+          La Bastide Bleue - Séguret
+          Le Petit Pavé - Sénas
+          Le Bateleur - Vaison-la-Romaine
+          Remonteur Sept 2014
+          -Cave Coopérative Gravillas - Sablet
+          Ménage / Service 2015
+          -Maison de retraite Villa St Jean - Chirac
+ 
+
+
 
 certifications:
       title: Certifications
