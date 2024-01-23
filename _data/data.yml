@@ -4,7 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -52,26 +52,24 @@ sidebar:
           link:
 
     soft-skills:
-      title: Soft skills
+      title: Atoux
       info:
-        - item: Escalade
+        - item: Curieux
           link:
 
-        - item: Roller
+        - item: Confiance en l’autre
           link:
 
-        - item: Cuisine
+        - item: Modeste
+          link:
+
+        - item: Volonté d'expérimenter
           link:
 
 career-profile:
-    title: Career Profile
+    title: Courte description
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Rajouter ici une courte description.
 
 education:
     title: Éducation
@@ -112,13 +110,13 @@ experiences:
           Agent en charge du support informatique pour les employés de la société Michelin.
             - Prise en main à distance
             - Maintient de la base de connaissance
-            -
+            - 
       - role: Développeur Web
         time: 2014
         company: SIRAE - Montpellier
         details: |
           Création d'un réseau social orienté gamers.
-      - role: Mentions spéciales
+      - role: Métiers sans relation directe avec l'informatique
         time: 2015-2020
         company: 
         details: |
@@ -145,36 +143,24 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
+        - name: Apprenez les bases du langage Python
+          start: 2024
+          end: 
+          organization: OpenClassroom
           credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          credentialurl: https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python
+          credentialname: OpenClassroom
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+            Details about cert. 
+        - name: Découvrez le fonctionnement des algorithmes
+          start: 2014
           end:
-          organization: Microsoft
+          organization: OpenClassroom
           credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          credentialurl: https://openclassrooms.com/fr/courses/7527306-decouvrez-le-fonctionnement-des-algorithmes
+          credentialname: OpenClassroom
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
+            Other certification. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
             Nullam eget orci purus. Nullam ultrices neque nibh.
             Aenean fermentum, felis vulputate suscipit accumsan,
@@ -186,13 +172,12 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      List of project here. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Add project
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 
 
 
@@ -202,22 +187,22 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 54%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 45%
 
-      - name: Angular
-        level: 98%
+      - name: C/C++
+        level: 65%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 75%
 
-      - name: Ruby on Rails
+      - name: Linux
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: PHP
+        level: 45%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
