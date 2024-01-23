@@ -51,6 +51,18 @@ sidebar:
         - item: Cuisine
           link:
 
+    soft-skills:
+      title: Soft skills
+      info:
+        - item: Escalade
+          link:
+
+        - item: Roller
+          link:
+
+        - item: Cuisine
+          link:
+
 career-profile:
     title: Career Profile
     summary: |
