@@ -7,4 +7,3 @@
 > Visit [her website](http://themes.3rdwavemedia.com/) for more themes.
 
 > Made into a Jekyll Theme by [Sharu725](https://github.com/sharu725). 
-
