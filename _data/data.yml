@@ -148,7 +148,7 @@ certifications:
           end: 
           organization: OpenClassroom
           credentialid: 111-222
-          credentialurl: https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python
+          credentialurl: openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python
           credentialname: OpenClassroom
           details: |
             Details about cert. 
@@ -157,7 +157,7 @@ certifications:
           end:
           organization: OpenClassroom
           credentialid: 111-222
-          credentialurl: https://openclassrooms.com/fr/courses/7527306-decouvrez-le-fonctionnement-des-algorithmes
+          credentialurl: openclassrooms.com/fr/courses/7527306-decouvrez-le-fonctionnement-des-algorithmes
           credentialname: OpenClassroom
           details: |
             Other certification. Lorem ipsum dolor sit amet, consectetur
@@ -175,7 +175,7 @@ projects:
       Liste des projets:
     assignments:
       - title: Coffee Heaven
-        link: touitoui.github.io/Projet-OpenClassroom-00/
+        link: ../Projet-OpenClassroom-00/
         tagline: "Page d'acceuil d'une entreprise fictive. Fait en HTML/CSS/JS"
 
 
