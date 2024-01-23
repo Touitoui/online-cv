@@ -172,12 +172,11 @@ certifications:
 projects:
     title: Projects
     intro: >
-      List of project here. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Liste des projets:
     assignments:
-      - title: Add project
-        link: "#hook"
-        tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+      - title: Coffee Heaven
+        link: touitoui.github.io/Projet-OpenClassroom-00/
+        tagline: "Page d'acceuil d'une entreprise fictive. Fait en HTML/CSS/JS"
 
 
 
@@ -187,7 +186,7 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 54%
+        level: 50%
 
       - name: Javascript & jQuery
         level: 45%
@@ -196,7 +195,7 @@ skills:
         level: 65%
 
       - name: HTML5 & CSS
-        level: 75%
+        level: 63%
 
       - name: Linux
         level: 85%
