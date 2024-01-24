@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    position: left # position of the sidebar : left or right
+    position: right # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
@@ -69,7 +69,9 @@ sidebar:
 career-profile:
     title: Recherche d'opportunités en développement
     summary: |
-      Je suis développeur Python junior en reconversion, résidant à Montpellier et animé par une passion pour la programmation. Animé par le désir d'acquérir de nouvelles compétences, je suis déterminé) à intégrer une équipe dynamique où je pourrai contribuer de manière significative à des projets innovants. Actuellement en quête d'une opportunité d'alternance en développement Python, je suis ouvert à des opportunités à Montpellier et Toulouse.
+      Je suis développeur Python junior en reconversion, résidant à Montpellier et animé par une passion pour la programmation. 
+      Animé par le désir d'acquérir de nouvelles compétences, je suis déterminé) à intégrer une équipe dynamique où je pourrai contribuer de manière significative à des projets innovants. 
+      Actuellement en quête d'une opportunité d'alternance en développement Python, je suis ouvert à des opportunités à Montpellier et Toulouse.
 
 education:
     title: Éducation
@@ -173,8 +175,7 @@ certifications:
 
 projects:
     title: Projects
-    intro: >
-      Liste des projets:
+    intro:
     assignments:
       - title: Coffee Heaven
         link: ../Projet-OpenClassroom-00/
