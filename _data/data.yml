@@ -84,16 +84,14 @@ education:
         university: EPSI Montpellier
         time: 2019
         details: |
-          Formation de deux mois
-            - Bullet point
-            - Bullet point
+          Formation de deux mois, apprentissage du language Java et des outils associés
+            - Java JRE, Docker
       - degree: Développeur informatique
         university: Epitech Montpellier
         time: 2010 - 2013
         details: |
-          École d'ingénieur avec pour base principale le C/C++ et orienté sur un apprentissage géneral de la programation et sur ses mécanismes.
-            - Bullet point
-            - Bullet point
+          École d'ingénieur avec pour base principale le C/C++ et orienté sur un apprentissage géneral de la programation et de ses mécanismes.
+          - C, C++, SQL, OCaml, SFML, SDL, Qt
 
 experiences:
     title: Experiences
@@ -103,14 +101,21 @@ experiences:
         company: Computacenter - Lattes
         details: |
           Agent en charge du support informatique pour les employés de la société Michelin.
-            - Prise en main à distance
-            - Maintient de la base de connaissance
-            - 
+            - Support téléphonique pour les problèmes logiciels et matériels, ordinateurs téléphone et imprimante.
+            - Prise en main à distance.
+            - Utilisation d'outils de ticketing.
+            - Maintient d'une base de connaissance.
+            - Utilisation et dépanage des outils Microsoft (Windows, Suite Office, Teams, OneDrive)
       - role: Développeur Web
         time: 2014
         company: SIRAE - Montpellier
         details: |
-          Création d'un réseau social orienté gamers.
+          Création d'un réseau social orienté gamers avec le framework Django dans une équipe de trois personnes.
+      - role: Développeur Web
+        time: 2011
+        company: Cours Diderot - Montpellier
+        details: |
+          Stage - Création d'un site internet pour le cours Diderot avec le framework Laravel.
       - role: Métiers sans relation directe avec l'informatique
         time: 2015-2020
         company: 
@@ -156,6 +161,15 @@ certifications:
           credentialname: OpenClassroom
           details: |
             Cours d'algorithmie.
+          - name: Microsoft Office Specialist - Office Outlook 2016
+          start: 2021
+          end:
+          organization: Microsoft
+          credentialid: ywAT-XVHo
+          credentialurl: www.certiport.com/Portal/Pages/CredentialVerification.aspx
+          credentialname: Microsoft
+          details: |
+            Certification Microsoft sur l'utilisation de Office Outlook 2016.
 
 projects:
     title: Projects
