@@ -78,13 +78,8 @@ education:
         university: OpenClassroom
         time: 2024
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Entrée dans la formation OpenClassroom Python.
+          Recherche d'alternance en cours.
       - degree: Formation Java Fullstack
         university: EPSI Montpellier
         time: 2019
@@ -96,7 +91,7 @@ education:
         university: Epitech Montpellier
         time: 2010 - 2013
         details: |
-          École d'ingénieur avec pour base principale le C/C++
+          École d'ingénieur avec pour base principale le C/C++ et orienté sur un apprentissage géneral de la programation et sur ses mécanismes.
             - Bullet point
             - Bullet point
 
@@ -151,7 +146,7 @@ certifications:
           credentialurl: openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python
           credentialname: OpenClassroom
           details: |
-            Details about cert. 
+            Cours sur les bases de python. 
         - name: Découvrez le fonctionnement des algorithmes
           start: 2014
           end:
@@ -160,14 +155,7 @@ certifications:
           credentialurl: openclassrooms.com/fr/courses/7527306-decouvrez-le-fonctionnement-des-algorithmes
           credentialname: OpenClassroom
           details: |
-            Other certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Cours d'algorithmie.
 
 projects:
     title: Projects
