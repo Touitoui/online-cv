@@ -161,7 +161,7 @@ certifications:
           credentialname: OpenClassroom
           details: |
             Cours d'algorithmie.
-          - name: Microsoft Office Specialist - Office Outlook 2016
+        - name: Microsoft Office Specialist - Office Outlook 2016
           start: 2021
           end:
           organization: Microsoft
