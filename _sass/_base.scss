@@ -272,6 +272,16 @@ p {
   }
 }
 
+  .level-bar {
+    height: 12px;
+    background: $smoky-white;
+  }
+  .level-bar-inner {
+    height: 12px;
+    background: darken($theme-color, 15%);
+  }
+
+
 .footer {
   padding-top: 30px;
   .copyright {
