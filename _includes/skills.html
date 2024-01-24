@@ -7,15 +7,15 @@
     {{ skills.title }}
   </h2>
 
+  <ul class="list-unstyled soft-skills-list">
   {% for skill in skills.toolset %}
-  <div class="item">
-    <h4 class="level-title">{{ skill.name }}</h3>
+    <li>>{{ skill.name }}
     <div class="level-bar">
       <div class="level-bar-inner" data-level="{{ skill.level }}">
       </div>
-    </div><!--//level-bar-->
-  </div><!--//item-->
+    </li>
   {% endfor %}
+  </ul>
 
 </div><!--//skills-container-->
 {% else %}
