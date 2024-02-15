@@ -35,10 +35,10 @@ sidebar:
       title: Langues
       info:
         - idiom: Français
-          level: Natif
+          level: 
 
         - idiom: Anglais
-          level: Professionel
+          level: 
 
     interests:
       title: intérêts
@@ -52,8 +52,11 @@ sidebar:
         - item: Cuisine
           link:
 
+        - item: Jeux vidéo
+          link:
+
     soft-skills:
-      title: Atoux
+      title: Soft skills
       info:
         - item: Curieux
           link:
@@ -68,11 +71,11 @@ sidebar:
           link:
 
 career-profile:
-    title: Recherche d'opportunités en développement
+    title: Recherche d'alternance
     summary: |
       Je suis développeur Python en reconversion cherchant un contrat de professionnalisation de 2 ans, résidant à Montpellier et possédant une passion pour la programmation. 
       Animé par le désir d'acquérir de nouvelles compétences, je suis déterminé à intégrer une équipe dynamique où je pourrai contribuer de manière significative à des projets innovants. 
-      Actuellement en quête d'une opportunité d'alternance en développement Python, je suis ouvert à des opportunités à Montpellier et Toulouse.
+      Actuellement en quête d'une opportunité d'alternance en développement Python et disponible dès que possible, je suis ouvert à des opportunités à Montpellier et Toulouse.
 
 education:
     title: Éducation
@@ -87,13 +90,13 @@ education:
         university: EPSI Montpellier
         time: 2019
         details: |
-          Formation de deux mois, apprentissage du language Java et des outils associés
+          Formation de deux mois, apprentissage de l'écosystème Java.
             - Java JRE, Docker
       - degree: Développeur informatique
         university: Epitech Montpellier
         time: 2010 - 2013
         details: |
-          École d'ingénieur avec pour base principale le C/C++ et orienté sur un apprentissage géneral de la programation et de ses mécanismes.
+          École de programmation avec pour base principale le C/C++ et orienté sur un apprentissage géneral de la programation et de ses mécanismes.
           - C, C++, SQL, OCaml, SFML, SDL, Qt
 
 experiences:
@@ -150,7 +153,7 @@ certifications:
           start: 2024
           end: 
           organization: OpenClassroom
-          credentialid: 111-222
+          credentialid: 
           credentialurl: openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python
           credentialname: OpenClassroom
           details: |
@@ -159,7 +162,7 @@ certifications:
           start: 2014
           end:
           organization: OpenClassroom
-          credentialid: 111-222
+          credentialid: 
           credentialurl: openclassrooms.com/fr/courses/7527306-decouvrez-le-fonctionnement-des-algorithmes
           credentialname: OpenClassroom
           details: |
@@ -180,7 +183,7 @@ projects:
     assignments:
       - title: Coffee Heaven
         link: ../Projet-OpenClassroom-00/
-        tagline: "Page d'acceuil d'une entreprise fictive. Fait en HTML/CSS/JS"
+        tagline: "Page d'accueil d'une entreprise fictive. Fait en HTML/CSS/JS"
 
 
 
