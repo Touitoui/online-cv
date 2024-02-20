@@ -1,4 +1,9 @@
+{% if polyvalent == true %}
+{% assign career-profile = site.data.data.career-profile-polyvalent %}
+{% else %}
 {% assign career-profile = site.data.data.career-profile %}
+{% endif %}
+
 {% if career-profile %}
 <section class="section summary-section">
 
