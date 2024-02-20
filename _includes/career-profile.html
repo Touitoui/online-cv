@@ -1,9 +1,4 @@
-{% if polyvalent == true %}
-{% assign career-profile = site.data.data.career-profile-poly %}
-{% else %}
 {% assign career-profile = site.data.data.career-profile %}
-{% endif %}
-
 {% if career-profile %}
 <section class="section summary-section">
 
@@ -16,7 +11,11 @@
   </h2>
 
   <div class="summary">
-    {{ career-profile.summary | markdownify }}
+    {% if polyvalent == true %}
+      {{ career-profile.summary-poly | markdownify }}
+    {% else%}
+      {{ career-profile.summary | markdownify }}
+    {% endif %}
   </div><!--//summary-->
     
 </section><!--//section-->
