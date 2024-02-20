@@ -11,6 +11,7 @@ sidebar:
     # Profile information
     name: Gresse Mickael
     tagline: Developpeur Python - Alternance 2 ans
+    tagline-poly: Developpeur Polyvalent - Alternance 2 ans
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -212,7 +213,10 @@ skills:
       - name: Linux
         level: 85%
 
-      - name: PHP
+      - name: PHP & Laravel
+        level: 45%
+
+      - name: Wordpress
         level: 45%
 
 footer: >
