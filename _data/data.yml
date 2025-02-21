@@ -10,8 +10,8 @@ sidebar:
 
     # Profile information
     name: Gresse Mickael
-    tagline: Developpeur - Alternance 2 ans
-    tagline-poly: Developpeur Polyvalent - Alternance 18 mois
+    tagline: Developpeur Python
+    tagline-poly: Developpeur Python
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -53,6 +53,9 @@ sidebar:
         - item: Cuisine
           link:
 
+        - item: Danse - Lindy Hop
+          link:
+
         - item: Jeux vidéo
           link:
 
@@ -74,13 +77,9 @@ sidebar:
 career-profile:
     title: Recherche d'alternance
     summary: |
-      Je suis développeur Python en reconversion cherchant un contrat de professionnalisation de 2 ans, résidant à Montpellier et possédant une passion pour la programmation. 
-      Animé par le désir d'acquérir de nouvelles compétences, je suis déterminé à intégrer une équipe dynamique où je pourrai contribuer de manière significative à des projets innovants. 
-      Actuellement en quête d'une opportunité d'alternance en développement Python et disponible dès que possible, je suis ouvert à des opportunités à Montpellier et Toulouse.
+      Je suis développeur Python en alternance résidant à Toulouse et possédant une passion pour la programmation.
     summary-poly: |
-      Je suis développeur polyvalent en reconversion cherchant un contrat de professionnalisation de 2 ans, résidant à Montpellier et possédant une passion pour la programmation. 
-      Animé par le désir d'acquérir de nouvelles compétences, je suis déterminé à intégrer une équipe dynamique où je pourrai contribuer de manière significative à des projets innovants. 
-      Actuellement en quête d'une opportunité d'alternance ou d'un CDI, je suis disponible dès que possible et suis ouvert à des opportunités à Montpellier et Toulouse.
+      Je suis développeur Python en alternance résidant à Toulouse et possédant une passion pour la programmation. 
 
 
 education:
@@ -88,10 +87,9 @@ education:
     info:
       - degree: Alternance Python
         university: OpenClassroom
-        time: 2024
+        time: 2024-Aujourd'hui
         details: |
-          Entrée dans la formation OpenClassroom Python.
-          Recherche d'alternance en cours.
+          Formation Python en alternance avec OpenClassroom.
       - degree: Formation Java Fullstack
         university: EPSI Montpellier
         time: 2019
@@ -108,6 +106,11 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Développeur Python
+        time: 2024-Aujourd'hui
+        company: LIMEC - Toulouse
+        details: |
+            Développement de logiciels pour traitement d'image et de données.
       - role: Agent Helpdesk
         time: 2021-2023
         company: Computacenter - Lattes
@@ -165,7 +168,7 @@ certifications:
           details: |
             Cours sur les bases de python. 
         - name: Découvrez le fonctionnement des algorithmes
-          start: 2014
+          start: 2024
           end:
           organization: OpenClassroom
           credentialid: 
